@@ -432,8 +432,9 @@
 
 }
 
-
-
+- (void)resizeViewports:(CDVInvokedUrlCommand *)command {
+    [self resizeViews];
+}
 
 
 - (void)requestAd:(CDVInvokedUrlCommand *)command {
