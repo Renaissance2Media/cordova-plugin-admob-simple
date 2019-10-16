@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-admob-simple",
+  "name": "ren20-admob-simple",
   "version": "3.3.8",
-  "description": "The FASTEST and EASIEST TO USE Cordova Admob plugin for Android, iOS and Windows phone. We do not send your apps details to our servers. Pure OpenSource Admob code. Allows preloading and automatic loading of interstitials and banners plus more. Works with Cordova, Phonegap, Intel XDK/Crosswalk, Ionic, Meteor and more.",
+  "description": "replacement of the origial cordova-plugin-admob-simple",
   "cordova": {
-    "id": "cordova-plugin-admob-simple",
+    "id": "ren20-admob-simple",
     "platforms": [
       "android",
       "ios",
@@ -13,10 +13,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sunnycupertino/cordova-plugin-admob-simple.git"
+    "url": "https://github.com/Renaissance2Media/cordova-plugin-admob-simple"
   },
   "bugs": {
-    "url": "https://github.com/sunnycupertino/cordova-plugin-admob-simple/issues"
+    "url": "https://github.com/Renaissance2Media/cordova-plugin-admob-simple/issues"
   },
   "keywords": [
     "cordova",
